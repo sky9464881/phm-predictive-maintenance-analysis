@@ -3,6 +3,7 @@
 
 <img width="806" height="656" alt="freq resolution 1Hz, raw" src="https://github.com/user-attachments/assets/fac16438-3fdf-4502-ae5e-62785dab6935" />
 
+> 최종 결과에 관한 자세한 내용은 results/reports/3조_PHM_최종발표본 에서 확인 가능합니다
 ## Overview
 본 프로젝트는 회전체 설비에서 수집한 진동 데이터를 분석해 설비의 이상 징후를 조기에 파악하고, 고장 원인을 진단하기 위해 수행한 PHM(Predictive Health Management) 프로젝트입니다.
 
